@@ -18,7 +18,8 @@ const loginFormHandler = async (event) => {
       document.location.replace('/profile');
     } else {
       alert(response.statusText);
-    }
+      response.json().then(res => console.error(res));
+  }
   }
 };
 
@@ -40,7 +41,8 @@ const signupFormHandler = async (event) => {
       document.location.replace('/profile');
     } else {
       alert(response.statusText);
-    }
+      response.json().then(res => console.error(res));
+  }
   }
 };
 
