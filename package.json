@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "engines": {
     "node": "14.16.1"
-    },
+  },
   "description": "## Your Task",
   "main": "server.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "express-handlebars": "^5.3.3",
     "express-session": "^1.17.2",
     "mysql2": "^2.3.0",
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.6.5",
+    "serve": "^12.0.0"
   }
 }
