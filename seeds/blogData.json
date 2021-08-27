@@ -1,0 +1,14 @@
+[
+    {
+      "name": "MERN Stack",
+      "description": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack."
+    },
+    {
+      "name": "Node.js",
+      "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser."
+    },
+    {
+      "name": "MVC",
+      "description": "Model–view–controller is a software design pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements"
+    }
+  ]
